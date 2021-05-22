@@ -6,8 +6,6 @@
    <a href="https://www.linkedin.com/in/john-oliver-944950aa/">
       <img alt="John Oliver" src="https://img.shields.io/badge/-John Oliver-01B755?style=flat&logo=Linkedin&logoColor=white" />
    </a>
-
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-01B755">
 </p>
 
 > Repositório onde se encontra todos os projetos desenvolvidos nas trilhas de ReactJS, React Native e Node do Ignite da [Rocketseat](https://github.com/Rocketseat).
@@ -86,7 +84,3 @@
     </td>
   </tr>
 </table>
-
-# :closed_book: Licença
-
-Este projeto está sob a licença [MIT](./LICENSE).
