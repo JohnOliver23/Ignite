@@ -10,7 +10,7 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-01B755">
 </p>
 
-> Repositório onde se encontra todos os projetos desenvolvidos na trilha de ReactJS do Ignite da [Rocketseat](https://github.com/Rocketseat).
+> Repositório onde se encontra todos os projetos desenvolvidos nas trilhas de ReactJS, React Native e Node do Ignite da [Rocketseat](https://github.com/Rocketseat).
 
 # :pushpin: Conteúdo
 
