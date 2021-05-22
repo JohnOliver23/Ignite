@@ -32,7 +32,7 @@
 ### Github Explorer
 
 <p align="center">
-  <a href="https://github.com/tavareshenrique/ignite-reactjs/tree/main/01-github-explorer">
+  <a href="https://github.com/JohnOliver23/Ignite/tree/main/ReactJS/01-github-explorer">
      <img src="https://raw.githubusercontent.com/tavareshenrique/ignite-reactjs/4c7f87360221a18410d3c19434bf6bef8afc3501/01-github-explorer/assets/img/logo.svg" alt="Github Explorer" width="280"/>
    </a>
 </p>
@@ -42,7 +42,7 @@
 ### DT Money
 
 <p align="center">
-  <a href="https://github.com/tavareshenrique/ignite-reactjs/tree/main/02-dtmoney">
+  <a href="https://github.com/JohnOliver23/Ignite/tree/main/ReactJS/02-dt-money">
      <img src="https://raw.githubusercontent.com/tavareshenrique/ignite-reactjs/a68fa5dbdd2952a73fcc6df5c88c1fc3c7cdd4b8/02-dtmoney/src/assets/logo.svg" alt="DT Money" width="280"/>
    </a>
 </p>
@@ -52,7 +52,7 @@
 ### ig.news
 
 <p align="center">
-  <a href="https://github.com/tavareshenrique/ignite-reactjs/tree/main/03-ignews">
+  <a href="https://github.com/JohnOliver23/Ignite/tree/main/ReactJS/03-ig-news">
      <img src="https://raw.githubusercontent.com/tavareshenrique/ignite-reactjs/aefbfbe096e8817899c9f2b731aef8e4f130d26e/03-ignews/public/images/logo.svg" alt="ig.news" width="280"/>
    </a>
 </p>
@@ -60,17 +60,17 @@
 <table>
   <tr>
     <td align="center">
-      <a href="http://github.com/tavareshenrique/">
-        <img src="https://avatars1.githubusercontent.com/u/27022914?v=4" width="100px;" alt="John Oliver"/>
+      <a href="http://github.com/JohnOliver23/">
+        <img src="https://avatars.githubusercontent.com/u/25158632?s=400&u=c62bd4924fe6fb5f28cc50827dbafd560584eed7&v=4" width="100px;" alt="John Oliver"/>
         <br />
         <sub>
           <b>John Oliver</b>
         </sub>
        </a>
        <br />
-       <a href="https://www.linkedin.com/in/tavareshenrique/" title="Linkedin">@johnoliver</a>
+       <a href="https://www.linkedin.com/in/john-oliver-944950aa/" title="Linkedin">@johnoliver</a>
        <br />
-       <a href="https://github.com/tavareshenrique/fastfeet-api/commits?author=tavareshenrique" title="Code">💻</a>
+       <a href="https://github.com/JohnOliver23/fastfeet-api/commits?author=tavareshenrique" title="Code">💻</a>
     </td>
     <td align="center">
       <a href="http://github.com/JohnOliver23/">
