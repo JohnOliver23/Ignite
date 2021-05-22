@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-   <a href="https://www.linkedin.com/in/tavareshenrique/">
+   <a href="https://www.linkedin.com/in/john-oliver-944950aa/">
       <img alt="John Oliver" src="https://img.shields.io/badge/-John Oliver-01B755?style=flat&logo=Linkedin&logoColor=white" />
    </a>
 
