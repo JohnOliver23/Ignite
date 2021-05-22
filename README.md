@@ -19,9 +19,8 @@
     - [Github Explorer](#github-explorer)
   - [Chapter II](#two-chapter-ii)
     - [DT Money](#dt-money)
-- [Desafios](#atom_symbol-desafios)
-  - [Chapter I](#one-chapter-i)
-  - [Chapter II](#two-chapter-ii)
+  - [Chapter III](#three-chapter-iii)
+    - [Ig News ](#ig-news)
 - [Autores](#computer-autores)
 - [Licença](#closed_book-licença)
 
