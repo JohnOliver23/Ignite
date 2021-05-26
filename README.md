@@ -10,47 +10,47 @@
 
 > Repositório onde se encontra todos os projetos desenvolvidos nas trilhas de ReactJS, React Native e Node do Ignite da [Rocketseat](https://github.com/Rocketseat).
 
-# :pushpin: Conteúdo
+# :pushpin: Trilhas
 
-- [Projetos](#rocket-projetos)
-  - [Chapter I](#one-chapter-i)
-    - [Github Explorer](#github-explorer)
-  - [Chapter II](#two-chapter-ii)
-    - [DT Money](#dt-money)
-  - [Chapter III](#three-chapter-iii)
-    - [Ig News ](#ig-news)
+- [Trilhas](#rocket-projetos)
+  - [Track I](#one-track-i)
+    - [React JS](#react-js)
+  - [Track II](#two-track-ii)
+    - [React Native](#react-native)
+  - [Track III](#three-track-iii)
+    - [Node Js ](#ig-news)
 - [Autores](#computer-autores)
 - [Licença](#closed_book-licença)
 
-# :rocket: Projetos
+# :rocket: Trilhas
 
-## :one: Chapter I
+## :one: Track I
 
-### Github Explorer
+### React JS
 
 <p align="center">
-  <a href="https://github.com/JohnOliver23/Ignite/tree/main/ReactJS/01-github-explorer">
-     <img src="https://raw.githubusercontent.com/tavareshenrique/ignite-reactjs/4c7f87360221a18410d3c19434bf6bef8afc3501/01-github-explorer/assets/img/logo.svg" alt="Github Explorer" width="280"/>
+  <a href="https://github.com/JohnOliver23/Ignite/tree/main/ReactJS">
+     <img src="https://xesque.rocketseat.dev/platform/1614596287807.svg" alt="Github Explorer" width="120"/>
    </a>
 </p>
 
-## :two: Chapter II
+## :two: Track II
 
-### DT Money
+### React Native
 
 <p align="center">
-  <a href="https://github.com/JohnOliver23/Ignite/tree/main/ReactJS/02-dt-money">
-     <img src="https://raw.githubusercontent.com/tavareshenrique/ignite-reactjs/a68fa5dbdd2952a73fcc6df5c88c1fc3c7cdd4b8/02-dtmoney/src/assets/logo.svg" alt="DT Money" width="280"/>
+  <a href="https://github.com/JohnOliver23/Ignite/tree/main/ReactNative">
+     <img src="https://xesque.rocketseat.dev/platform/1619413794626.svg" alt="DT Money" width="120"/>
    </a>
 </p>
 
-## :three: Chapter III
+## :three: Track III
 
-### ig.news
+### Node JS
 
 <p align="center">
-  <a href="https://github.com/JohnOliver23/Ignite/tree/main/ReactJS/03-ig-news">
-     <img src="https://raw.githubusercontent.com/tavareshenrique/ignite-reactjs/aefbfbe096e8817899c9f2b731aef8e4f130d26e/03-ignews/public/images/logo.svg" alt="ig.news" width="280"/>
+  <a href="https://github.com/JohnOliver23/Ignite/tree/main/NodeJS">
+     <img src="https://xesque.rocketseat.dev/platform/1614596651728.svg" alt="ig.news" width="120"/>
    </a>
 </p>
 
