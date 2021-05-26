@@ -13,18 +13,18 @@
 # :pushpin: Trilhas
 
 - [Trilhas](#rocket-projetos)
-  - [Track I](#one-track-i)
+  - [Trilha I](#one-track-i)
     - [React JS](#react-js)
-  - [Track II](#two-track-ii)
+  - [Trilha II](#two-track-ii)
     - [React Native](#react-native)
-  - [Track III](#three-track-iii)
+  - [Trilha III](#three-track-iii)
     - [Node Js ](#ig-news)
 - [Autores](#computer-autores)
 - [Licença](#closed_book-licença)
 
 # :rocket: Trilhas
 
-## :one: Track I
+## :one: Trilha I
 
 ### React JS
 
@@ -34,7 +34,7 @@
    </a>
 </p>
 
-## :two: Track II
+## :two: Trilha II
 
 ### React Native
 
@@ -44,7 +44,7 @@
    </a>
 </p>
 
-## :three: Track III
+## :three: Trilha III
 
 ### Node JS
 
