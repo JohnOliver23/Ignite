@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://raw.githubusercontent.com/JohnOliver23/Ignite/main/ReactJS/01-github-explorer/src/assets/img/logo.svg" alt="Ignite" width="180"/>
+   <img src="https://raw.githubusercontent.com/JohnOliver23/Ignite/main/ReactJS/01-github-explorer/src/assets/img/logo.svg" alt="Ignite" width="280"/>
 </p>
 
 <p align="center">
