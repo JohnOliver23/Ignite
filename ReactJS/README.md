@@ -16,7 +16,7 @@
   - [Chapter I](#one-chapter-i)
     - [Github Explorer](#github-explorer)
   - [Chapter II](#two-chapter-ii)
-    - [DT Money](#dt-money)
+    - [DT Money](#dtmoney)
   - [Chapter III](#three-chapter-iii)
     - [Ig News ](#ig-news)
 - [Autores](#computer-autores)
@@ -39,8 +39,8 @@
 ### DT Money
 
 <p align="center">
-  <a href="https://github.com/JohnOliver23/Ignite/tree/main/ReactJS/02-dt-money">
-     <img src="https://raw.githubusercontent.com/tavareshenrique/ignite-reactjs/a68fa5dbdd2952a73fcc6df5c88c1fc3c7cdd4b8/02-dtmoney/src/assets/logo.svg" alt="DT Money" width="280"/>
+  <a href="https://github.com/JohnOliver23/Ignite/tree/main/ReactJS/02-dtmoney">
+     <img src="https://raw.githubusercontent.com/JohnOliver23/Ignite/main/ReactJS/02-dtmoney/src/assets/logo.svg" alt="DT Money" width="280"/>
    </a>
 </p>
 
